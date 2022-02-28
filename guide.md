@@ -1,3 +1,0 @@
-# Headlineasdasdasd
-
-> An awesome project.

@@ -1,3 +1,3 @@
-# Headline
+# Soc 前端文档管理
 
-> An awesome project.
+> 有志者事竟成。——《后汉书·耿弇列传》
